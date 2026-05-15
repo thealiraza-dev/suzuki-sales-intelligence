@@ -17,7 +17,7 @@ Companies struggle to:
 ---
 
 ## Solution
-Built a **Business Intelligence system** that:
+Built a Business Intelligence system that:
 - Analyzes sales trends across models and cities
 - Measures inflation impact on sales performance
 - Provides KPI-based executive dashboards
